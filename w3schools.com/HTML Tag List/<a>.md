@@ -82,7 +82,7 @@ This site was built using <a href="https://pages.github.com">GitHub Pages</a>.
       <a href="/" title="A">Aa</a>
       ```
 
-      <a href="/" title="A">Aa</a>
+      <a href="https://google.com" title="Aa">Aa</a>
 
     3.  
 
