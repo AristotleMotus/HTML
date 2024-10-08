@@ -76,15 +76,28 @@ This site was built using <a href="https://pages.github.com">GitHub Pages</a>.
      Specifies the URL of the internal page represented by `name`
 </details>
 
-4. 说明
+~~4. title~~
+<details>
+  <summary>Details</summary>
+  1. Grammer
+     ```
+     <a href="URL" title="A">A</a>
+     ```
+</details>
+
+5. JavaScript
    1. Grammer
       ```
-      <a href="/" title="A">Aa</a>
+      <a href="javascript:alter('Hello World!');">Execute JavaScript</a>
       ```
+   2. Description:
+      How to link to a JavaScript
+   3. Example
+      ```
+      <a href="javascript:alter('ERROR!!!');">Next</a>
+      ```
+      <a href="javascript:alter('Happly New Year!');">Congratulations</a>
 
-      <a href="https://google.com" title="Aa">Aa</a>
-
-    3.  
 
 
 
