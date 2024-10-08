@@ -57,11 +57,11 @@ This site was built using <a href="https://pages.github.com">GitHub Pages</a>.
          <p>BBB</p>
          ```
          <a name="objecta">Object A</a>
-         <a href="#object-name">Go to Object B</a>
          <p>
            <a href="https://docs.github.com/zh/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#custom-anchors">Some text I want to provide a direct link to, but which doesn't have its own heading</a>.
          </p>
          <a name="objectb">Object B</a>
+         <a href="#objecta">Go to Object A</a>
          <p>BBB</p>
 
 ~~3. Internal Link~~
