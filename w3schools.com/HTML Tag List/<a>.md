@@ -12,8 +12,49 @@ https://www.w3schools.com/tags/tag_a.asp
 ## `href` Sort
 1. External Link
    1. Grammer
-   ```
-   <a href="_URL_">name</a>
-   ```
+      ```
+      <a href="URL">name</a>
+      ```
    2. Description:
-   Specifies the URL of the external page represented by `name`
+      Specifies the URL of the external page represented by `name`
+   3. Example
+      ```
+      <a href="https://pages.github.com">GitHub Pages</a>
+      ```
+This site was built using <a href="https://pages.github.com">GitHub Pages</a>.
+2. Anchor
+   1. Grammer
+      ```
+      <a href="#id">name</a>
+      ```  
+   3. Description:
+      How to link to another section on the same page
+   5. Example
+      ```
+      <h1 id="unit1">Unit 1</h1>
+      <a href="#sectionB">Go to Section B</a>
+      <h2 id="sectionA">Section A</h2>
+      <p>AAA</p>
+      <h2 id="sectionB">Section B</h2>
+      <p>AAA</p>
+      ```
+      <h1 id="unit1">Unit 1</h1>
+      <a href="#sectionB">Go to Section B</a>
+      <h2 id="sectionA">Section A</h2>
+      <p>AAA</p>
+      <h2 id="sectionB">Section B</h2>
+      <p>BBB</p>
+      
+      <a name="object-name">name</a>
+      <a href="#object-name">name</a>
+7.    1. Grammer
+   2. Description:
+   3. Example
+      
+8. 
+      <html>
+      <body>
+        <h1 style="background-color:Blue;">Hello World</h1>
+        <h2 style="color:Red;">Hello World</h2> 
+      </body>
+      </html>   
