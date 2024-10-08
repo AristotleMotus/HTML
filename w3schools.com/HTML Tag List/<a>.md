@@ -45,8 +45,8 @@ This site was built using <a href="https://pages.github.com">GitHub Pages</a>.
       <h2 id="sectionB">Section B</h2>
       <p>BBB</p>
       
-      <a name="object-name">name</a>
-      <a href="#object-name">name</a>
+      <a name="object-name">Object</a>
+      <a href="#object-name">Go to Object</a>
 7.    1. Grammer
    2. Description:
    3. Example
