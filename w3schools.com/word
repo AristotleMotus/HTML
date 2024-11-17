@@ -1,7 +1,44 @@
-HTML
+# HTML
+
 HyperText Markup Language
 
-dash -
-less than <
-greater than >
-slash /
+---
+
+# syntax
+
+```
+opening tag <element>
+content
+closing tag </element>
+```
+
+1. element : tag name
+   - <p> paragraph of text
+   - ~~<a> anchor~~
+2. tag
+   - <elememt>
+   - </elememt>
+3. HTML attribute
+
+   modifies how an element behaves
+   - <a href="">
+
+## syntax of attribute set
+
+attribute set: modifies different parts of elememt's behavior
+
+<TagName AttributeName1="value1" AttributeName2="value2">
+
+## quirk of HTML
+- extra spaces or new lines are ignored
+- generally two spaces per indent in HTML&CSS
+
+
+
+- dot .
+- dash -
+- less than <
+- greater than >
+- slash /
+- double qoutes "
+- underscore _
